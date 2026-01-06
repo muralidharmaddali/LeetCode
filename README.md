@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/muralidharmaddali/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
+| [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/muralidharmaddali/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
