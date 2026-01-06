@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/muralidharmaddali/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/muralidharmaddali/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
