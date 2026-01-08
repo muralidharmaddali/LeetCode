@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/muralidharmaddali/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/muralidharmaddali/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
 |  |
