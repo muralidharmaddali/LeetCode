@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/muralidharmaddali/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/muralidharmaddali/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muralidharmaddali/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
