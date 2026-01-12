@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/muralidharmaddali/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
+| [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/muralidharmaddali/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/muralidharmaddali/LeetCode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
