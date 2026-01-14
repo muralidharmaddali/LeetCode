@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3453-separate-squares-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
