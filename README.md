@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/muralidharmaddali/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
 ## Stack
 |  |
