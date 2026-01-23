@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/muralidharmaddali/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -197,16 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
