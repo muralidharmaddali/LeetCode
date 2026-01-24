@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/muralidharmaddali/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/muralidharmaddali/LeetCode/tree/master/0414-third-maximum-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/muralidharmaddali/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
@@ -93,10 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
