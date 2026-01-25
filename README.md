@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/muralidharmaddali/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/muralidharmaddali/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/muralidharmaddali/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/muralidharmaddali/LeetCode/tree/master/0414-third-maximum-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/muralidharmaddali/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/muralidharmaddali/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Hash Table
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/muralidharmaddali/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Tree
 |  |
