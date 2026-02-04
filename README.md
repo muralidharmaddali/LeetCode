@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/muralidharmaddali/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/muralidharmaddali/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/muralidharmaddali/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/muralidharmaddali/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
 |  |
