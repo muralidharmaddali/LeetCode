@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/muralidharmaddali/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/muralidharmaddali/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3454-separate-squares-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Enumeration
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/muralidharmaddali/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
@@ -281,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
