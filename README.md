@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/muralidharmaddali/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/muralidharmaddali/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/muralidharmaddali/LeetCode/tree/master/0326-power-of-three) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/muralidharmaddali/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [3379-transformed-array](https://github.com/muralidharmaddali/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/muralidharmaddali/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muralidharmaddali/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
