@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/muralidharmaddali/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
