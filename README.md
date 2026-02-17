@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/muralidharmaddali/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/muralidharmaddali/LeetCode/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/muralidharmaddali/LeetCode/tree/master/0401-binary-watch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Simulation
 |  |
