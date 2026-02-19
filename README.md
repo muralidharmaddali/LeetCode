@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0696-count-binary-substrings](https://github.com/muralidharmaddali/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/muralidharmaddali/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/muralidharmaddali/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/muralidharmaddali/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muralidharmaddali/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
