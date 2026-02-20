@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muralidharmaddali/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/muralidharmaddali/LeetCode/tree/master/0414-third-maximum-number) |
+| [0761-special-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/muralidharmaddali/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/muralidharmaddali/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/muralidharmaddali/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/muralidharmaddali/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/muralidharmaddali/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muralidharmaddali/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/muralidharmaddali/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
