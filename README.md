@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/muralidharmaddali/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muralidharmaddali/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/muralidharmaddali/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/muralidharmaddali/LeetCode/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/muralidharmaddali/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/muralidharmaddali/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muralidharmaddali/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
