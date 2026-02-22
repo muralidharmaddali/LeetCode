@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/muralidharmaddali/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/muralidharmaddali/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/muralidharmaddali/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/muralidharmaddali/LeetCode/tree/master/0868-binary-gap) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/muralidharmaddali/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
