@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muralidharmaddali/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/muralidharmaddali/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/muralidharmaddali/LeetCode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Array
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/muralidharmaddali/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/muralidharmaddali/LeetCode/tree/master/0258-add-digits) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/muralidharmaddali/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/muralidharmaddali/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/muralidharmaddali/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/muralidharmaddali/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/muralidharmaddali/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/muralidharmaddali/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/muralidharmaddali/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/muralidharmaddali/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
