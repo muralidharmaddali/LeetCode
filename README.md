@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/muralidharmaddali/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/muralidharmaddali/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/muralidharmaddali/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Memoization
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/muralidharmaddali/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/muralidharmaddali/LeetCode/tree/master/1895-largest-magic-square) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/muralidharmaddali/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/muralidharmaddali/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
